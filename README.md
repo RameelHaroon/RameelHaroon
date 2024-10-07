@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### My name is Rameel Haroon, and welcome to my github profile. Thank you for visiting. Have a nice day stranger.<br/> 
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
+👩🏻‍💻 Software Engineer currently working at Uworx Group<br/>
 👩🏻‍🎓 Studied Computer Science at the University of Central Punjab, Pakistan<br/>
 💭 Currently learning about spring boot<br/>
 
